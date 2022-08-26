@@ -4,7 +4,7 @@ package main
 
 import "fmt"
 
-// declare var outsite of func can not use non var style
+// declare var outsite of func can not use non var style //
 var globalvar = "the global variable"
 
 func main() {
