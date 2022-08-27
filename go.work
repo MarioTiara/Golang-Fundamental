@@ -3,3 +3,4 @@ go 1.18
 use ./01hello
 use ./03userinput
 use ./02variables
+use ./04Conversion
