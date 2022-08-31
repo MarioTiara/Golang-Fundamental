@@ -5,3 +5,7 @@ use ./03userinput
 use ./02variables
 use ./04Conversion
 use ./06mytime
+use ./07pointer
+use ./08Array
+use ./09Slices
+use ./10Maps
