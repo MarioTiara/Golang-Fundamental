@@ -9,3 +9,4 @@ use ./07pointer
 use ./08Array
 use ./09Slices
 use ./10Maps
+use ./11Struct
