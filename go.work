@@ -14,3 +14,7 @@ use ./12Ifelse
 use ./13switchcase
 use ./14loops
 use ./15Break-Continue
+use ./16Function
+use ./17Method
+use ./18defer
+use ./19files
